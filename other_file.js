@@ -1,1 +1,1 @@
-var index = require("./inex.js")
+var index = require("./index.js")
